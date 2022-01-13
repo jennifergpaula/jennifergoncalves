@@ -10,6 +10,7 @@
 <h3 align="left">Let's keep in touch:</h3>
 <a href="https://linkedin.com/in/jennifergp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jennifergp" height="30" width="40" /></a>
 <a href="https://instagram.com/jennifergpaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jennifergpaula" height="30" width="40" /></a>
+ <a href = "mailto:jennifergpaula@gmail.com" target="blank"><img width="30" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
 
 
 <h3 align="left">Languages and Tools that I'm learning:</h3>
