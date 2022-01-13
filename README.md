@@ -4,6 +4,7 @@
 <p align = "justify">I am a communications specialist and software engineering student looking for opportunities to learn and collaborate on projects related to creating and developing technology to empower people and businesses. 🐱‍👓 We can turn ideas into reality with more friendly interfaces and usability. </p>
 <p align = "justify">💡🖤 My passion for software is linked to my belief that technology can really contribute to breaking down barriers and having a positive impact on building a sustainable and egalitarian society. 🚀 For me that means working to make them more and more accessible.</p>
 
+<br />
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63617025/149363211-8ad51114-d4c3-4fbf-8b8c-347385bcbac1.gif" width="400" height="500" />
  
 <h3 align="left">Let's keep in touch:</h3>
