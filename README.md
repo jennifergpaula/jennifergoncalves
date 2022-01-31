@@ -1,5 +1,5 @@
 <h1 align = "justify"> Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/63617025/149354335-21e898f2-1264-43dd-8765-e9d354bc098d.jpg" width="250" height="250" />
+
 <h3> My name is Jennifer! I'm glad you are here. 🤗 </h3>
 <p align = "justify">I am a communications specialist and software engineering student looking for opportunities to learn and collaborate on projects related to creating and developing technology to empower people and businesses. 🐱‍👓 We can turn ideas into reality with more friendly interfaces and usability. </p>
 <p align = "justify">💡🖤 My passion for software is linked to my belief that technology can really contribute to breaking down barriers and having a positive impact on building a sustainable and egalitarian society. 🚀 For me that means working to make them more and more accessible.</p>
